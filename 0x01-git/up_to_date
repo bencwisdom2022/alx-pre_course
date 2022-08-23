@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 touch up_to_date
+=======
+git add .
+git commit -m
+git push
+git branch
+git checkout
+>>>>>>> ed89394b2bc4c7b4e2f9a33f1b4239a08cbb224b
